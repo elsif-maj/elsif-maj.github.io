@@ -1,0 +1,36 @@
+.green {
+	color: #4bd8af !important;
+}
+
+.rust {
+	color: rgb(192, 105, 30) !important;
+}
+
+.image .logo {
+	background-color: transparent;
+	background: transparent;
+}
+
+.extra {
+	font-size: 1.15rem;
+	color: #585858;
+}
+
+.project-icon path {
+	width: .8rem;
+}
+
+.project-section {
+	margin-bottom: 2rem;
+}
+
+.image.left, .image.right {
+	width: 90px;
+	padding: 15px;
+	background-color: #49bf9d;
+	border-radius: 20px;
+}
+
+.nav-item {
+	width: 40px;	
+}
